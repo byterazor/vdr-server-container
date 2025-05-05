@@ -6,8 +6,8 @@ local github_repo_name = "vdr-server-container";
 local github_desc = "running the video disk recorder in a container";
 local url = "https://gitea.federationhq.de/Container/vdr-server";
 
-// local REDMINE_PROJECT_ID="drone-redmine-plugin";
-// local REDMINE_URL="https://rm.byterazor.de";
+local REDMINE_PROJECT_ID="vdr-server-container";
+local REDMINE_URL="https://rm.byterazor.de";
 
 local MAIN_REPO="Container/vdr-server";
 
